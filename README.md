@@ -48,8 +48,8 @@ pip for package management
 A Hugging Face account
 
 1. Clone the Repository
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/ArtExists/Emotion_Det
+cd Emotion_Det
 
 2. Install Dependencies
 Install all the required Python libraries using the requirements.txt file.
